@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gym-website/static/css/main.6387528d.chunk.css",
+    "main.js": "/gym-website/static/js/main.43fee12e.chunk.js",
+    "main.js.map": "/gym-website/static/js/main.43fee12e.chunk.js.map",
+    "runtime-main.js": "/gym-website/static/js/runtime-main.e8e02e83.js",
+    "runtime-main.js.map": "/gym-website/static/js/runtime-main.e8e02e83.js.map",
+    "static/js/2.1c39df63.chunk.js": "/gym-website/static/js/2.1c39df63.chunk.js",
+    "static/js/2.1c39df63.chunk.js.map": "/gym-website/static/js/2.1c39df63.chunk.js.map",
+    "index.html": "/gym-website/index.html",
+    "static/css/main.6387528d.chunk.css.map": "/gym-website/static/css/main.6387528d.chunk.css.map",
+    "static/js/2.1c39df63.chunk.js.LICENSE.txt": "/gym-website/static/js/2.1c39df63.chunk.js.LICENSE.txt",
+    "static/media/1.0e37b507.svg": "/gym-website/static/media/1.0e37b507.svg",
+    "static/media/2.b9a2a0ce.svg": "/gym-website/static/media/2.b9a2a0ce.svg",
+    "static/media/3.70a91c09.svg": "/gym-website/static/media/3.70a91c09.svg",
+    "static/media/4.7eb09c3d.svg": "/gym-website/static/media/4.7eb09c3d.svg",
+    "static/media/about.03399dbc.png": "/gym-website/static/media/about.03399dbc.png",
+    "static/media/style.css": "/gym-website/static/media/offer.1cafdcd5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8e02e83.js",
+    "static/js/2.1c39df63.chunk.js",
+    "static/css/main.6387528d.chunk.css",
+    "static/js/main.43fee12e.chunk.js"
+  ]
+}
